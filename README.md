@@ -1,9 +1,11 @@
 Hi, I'm atobaum.
 
-## Interest
+## I'm Interested in...
 - Typescript
 - React
 - Functional programming
+- Category theory
+- Knowledge management
 - Reading books
 
 [![Atobaum's github stats](https://github-readme-stats.vercel.app/api?username=Atobaum)](https://github.com/anuraghazra/github-readme-stats)
