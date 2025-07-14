@@ -1,6 +1,7 @@
-Hi, I'm atobaum.
+Hi There 👋!
 
 [![Atobaum's github stats](https://github-readme-stats.vercel.app/api?username=Atobaum)](https://github.com/anuraghazra/github-readme-stats)
+![DevStats Card](https://devstats.me/?username=atobaum)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atobaum@gmail.com)](mailto:atobaum@gmail.com)
 [![Twitter Badge](http://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/atobaum/)](https://twitter.com/atobaum/)
